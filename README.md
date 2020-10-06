@@ -6,9 +6,12 @@ This repository contains my understanding on some supervised learning algorithms
   * Part 1: Maximal Margin Classifier (Linear Seperable Case)
   * Part 2: Support Vector Classifier (Linear Non-Seperable Case)
   * Part 3: Support Vector Machine (Non-Linear Case)
-* [Decision Tree](https://github.com/XIAO-HE-1/Supervised-Learning-Algorithm/blob/master/Decision%20Tree.ipynb)
-  * Part 1: Regression Tree
-  * Part 2: Classification Tree
+* Tree-based model
+  * [Decision Tree](https://github.com/XIAO-HE-1/Supervised-Learning-Algorithm/blob/master/Decision%20Tree.ipynb)
+    * Part 1: Regression Tree
+    * Part 2: Classification Tree
+  * [Bagging](https://github.com/XIAO-HE-1/Supervised-Learning-Algorithm/blob/master/Bagging%20and%20Random%20Forest.ipynb)
+  * [Random Forest](https://github.com/XIAO-HE-1/Supervised-Learning-Algorithm/blob/master/Bagging%20and%20Random%20Forest.ipynb)
 
 [Continue Updated]
 
